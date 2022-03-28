@@ -174,5 +174,9 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['play'])){
         <button name="play">Jouer</button>
 </form>
 
+<div class="repo">
+    <ul><li><a href="https://github.com/maxime-hadj/tictactoe">Repo Github</a></li></ul>
+</div>
+
 </body>
 </html>
